@@ -20,8 +20,3 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## Stats
-
-![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioDias&show_icons=true&theme=dark)
