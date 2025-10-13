@@ -15,7 +15,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 ##  Contacts 
