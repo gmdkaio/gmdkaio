@@ -6,7 +6,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)
 
 ![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
+![APIs](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 ![Scraping](https://img.shields.io/badge/Scraping-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
