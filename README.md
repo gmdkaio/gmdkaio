@@ -6,4 +6,4 @@ Building automated data pipelines and SQL-driven analytics systems.
 
 ---
 
-![GitHub Analytics](https://raw.githubusercontent.com/YOUR_USERNAME/github-analytics-dashboard/main/data/github_dashboard.svg)
+![GitHub Analytics](https://raw.githubusercontent.com/gmdkaio/github-analytics-dashboard/main/data/github_dashboard.svg)
