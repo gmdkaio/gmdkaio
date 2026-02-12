@@ -1,4 +1,3 @@
-# Kaio Dias
 Data Engineer | Analytics Engineer | SQL | BI | API 
 ---
 
