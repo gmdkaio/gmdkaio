@@ -1,8 +1,8 @@
-Into data, statistics, automation, and small experiments.
+### Into data, statistics, automation, and small experiments.
 
 ![steins gate banner](./banner.jpg)
 
-## main repositories
+## Main repositories
 
 - [github-analytics-dashboard](https://github.com/gmdkaio/github-analytics-dashboard) — automated GitHub analytics dashboard (daily updates)
 - [stochastic-dcf-engine](https://github.com/gmdkaio/stochastic-dcf-engine) — monte carlo dcf engine (C + R)
