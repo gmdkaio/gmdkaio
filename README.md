@@ -1,6 +1,6 @@
-Into data, automation, and small experiments.
+Into data, statistics, automation, and small experiments.
 
-![steins gate banner](banner.png)
+![steins gate banner](./banner.jpg)
 
 ## main repositories
 
@@ -10,4 +10,5 @@ Into data, automation, and small experiments.
 - [adguard](https://github.com/gmdkaio/adguard) — lightweight DNS sinkhole in python
 - [openrgb-agm700-driver](https://github.com/gmdkaio/openrgb-agm700-driver) — custom AGM700 OpenRGB driver/config tooling
 
+- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmdkaio&layout=compact&hide_border=true)
