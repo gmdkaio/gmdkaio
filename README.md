@@ -1,8 +1,6 @@
-# gmdkaio
-
 Into data, automation, and small experiments.
 
-![steins gate banner](./assets/steins-gate-banner.png)
+![steins gate banner](banner.png)
 
 ## main repositories
 
