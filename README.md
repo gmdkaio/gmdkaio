@@ -10,3 +10,4 @@ Into data, statistics, automation, and small experiments.
 - [adguard](https://github.com/gmdkaio/adguard) — lightweight DNS sinkhole in python
 - [openrgb-agm700-driver](https://github.com/gmdkaio/openrgb-agm700-driver) — custom AGM700 OpenRGB driver/config tooling
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/gmdkaio/badge.svg)](https://hub.xerj.org/contributors/gmdkaio)
