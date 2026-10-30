@@ -10,6 +10,10 @@ Into data, statistics, automation, and small experiments.
 - [amadeus-ai](https://github.com/gmdkaio/amadeus-ai) - local Qwen fine-tuning with LoRA, quantization, and dialogue/audio preparation
 - [stochastic-dcf-engine](https://github.com/gmdkaio/stochastic-dcf-engine) - C/R Monte Carlo engine executing 1,000,000 DCF paths in ~0.045s
 
+#### Personal workflow
+
+- [kstack](https://github.com/gmdkaio/kstack) - my system for organizing projects, context, and reusable workflows when working with Claude and other AI tools
+
 #### Other stuff
 
 - [openrgb-agm700-driver](https://github.com/gmdkaio/openrgb-agm700-driver) - custom C tooling for OpenRGB and an AGM700 mouse
